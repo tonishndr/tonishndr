@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonishndr
-- 👀 I’m interested and currently learning Data Science, Machine Learning, and Cloud Computing.
+- 👀 I’m interested and currently learning ***Data Science, Machine Learning, and Cloud Computing.***
 > ***I'm not an expert, I'm just a learner.***
 
 <!---
