@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="git">
 </p>
 
 <!-- Introduction -->
