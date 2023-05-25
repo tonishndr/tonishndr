@@ -36,9 +36,9 @@
 </p> -->
  
 <!-- Stats -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonishndr&show_icons=true&locale=en&layout=compact"/></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonishndr&show_icons=true&locale=en"/></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonishndr&"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonishndr&show_icons=true&locale=en&layout=compact&theme=transparent"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonishndr&show_icons=true&locale=en&theme=transparent"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonishndr&theme=transparent"/></p>
 
 
 <!-- Contact -->
@@ -56,5 +56,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tonishndr.tonishndr" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=tonishndr&color=blue&label=PROFILE+VIEWS" alt="Visitors">
 </p>
