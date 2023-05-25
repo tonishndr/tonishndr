@@ -35,10 +35,11 @@
   <img src="https://img.shields.io/github/last-commit/tonishndr/tonishndr?style=social" alt="Last Commit">
 </p> -->
  
+<!-- Stats -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonishndr&show_icons=true&locale=en&layout=compact"/></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonishndr&show_icons=true&locale=en"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonishndr&"/></p>
+
 
 <!-- Contact -->
 <p align="center">
